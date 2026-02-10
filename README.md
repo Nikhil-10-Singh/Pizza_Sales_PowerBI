@@ -102,30 +102,6 @@ These KPIs help assess overall business health instantly.
 
 ---
 
-## 📁 Repository Structure
-
-Pizza-Sales-PowerBI/
-│
-├── Dashboard/
-│   └── Pizza_Sales_Analysis.pbix
-│
-├── Dataset/
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── pizzas.csv
-│   └── pizza_types.csv
-│
-├── Screenshots/
-│   ├── dashboard_full.png
-│   ├── orders_by_day.png
-│   └── orders_by_hour.png
-│
-└── README.md
-
-
-
----
-
 ## 🚀 How to Use This Project
 1. Download the `.pbix` file
 2. Open it in **Power BI Desktop**
